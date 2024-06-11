@@ -2,8 +2,8 @@
 
 ## Daily Targets to Solve
 
-![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/6835d161-394a-4610-b672-a1eef12e8b34)
-[see the daily target](https://cssbattle.dev/play/CSqZBF8mXJqpLI7Lvm1R)
+![ daily target](https://github.com/BekiaD/cssbattle/assets/144695091/6835d161-394a-4610-b672-a1eef12e8b34)
+
 ![picture of my solution](https://i.imgur.com/B1hCDcz.png)
 
 ## Stats
