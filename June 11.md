@@ -1,10 +1,11 @@
-# CSS Battle Daily Targets: 02/06/2024
+# CSS Battle Daily Targets: 11 June 2024
 
 ## Daily Targets to Solve
 
-![picture of daily target](./images/02.png)
+![picture of daily target](![image](https://github.com/BekiaD/cssbattle/assets/144695091/6835d161-394a-4610-b672-a1eef12e8b34)
+)
 [see the daily target](https://cssbattle.dev/play/CSqZBF8mXJqpLI7Lvm1R)
-![picture of my solution](./images/02.png)
+![picture of my solution](https://i.imgur.com/B1hCDcz.png)
 
 ## Stats
 
