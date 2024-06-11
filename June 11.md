@@ -3,7 +3,7 @@
 ## Daily Targets to Solve
 
 !Picture of daily target  
-See the daily target  
+[see the daily target](https://cssbattle.dev/play/CSqZBF8mXJqpLI7Lvm1R)
 Check out the solution video on YouTube
 
 ## Stats
@@ -53,6 +53,7 @@ body{
   border-left: 200px solid #FEFF58;
   border-right: 60px solid #FEFF58;
  }
+ 
 </style>
 
 
