@@ -2,7 +2,11 @@
 
 ## Daily Targets to Solve
 
+### Target Image
+
 ![ daily target](https://github.com/BekiaD/cssbattle/assets/144695091/6835d161-394a-4610-b672-a1eef12e8b34)
+
+### My solution
 
 ![picture of my solution](https://i.imgur.com/B1hCDcz.png)
 
