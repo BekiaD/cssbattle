@@ -6,7 +6,7 @@
 
 ### Target Image
 
-![picture of daily target]
+![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/e36c653f-6498-4e9a-b371-c70f1bfe67ca)
 
 ### My solution
 
