@@ -1,6 +1,6 @@
 
 
-# CSS Battle Daily Targets: 17 June 2024
+# CSS Battle Daily Targets: 18 June 2024
 
 ## Daily Targets to Solve
 
