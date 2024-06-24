@@ -1,16 +1,16 @@
 
 
-# CSS Battle Daily Targets: 20 June 2024
+# CSS Battle Daily Targets: 24 June 2024
 
 ## Daily Targets to Solve
 
 ### Target Image
 
-![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/50b7c98d-b4cb-4b39-9a19-d124afdf7d01)
+![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/d4338135-6cda-4d9a-808f-810e8e3e61b3)
 
 ### My solution
 
-![picture of my solution](https://github.com/BekiaD/cssbattle/assets/144695091/70f42322-0d91-48d4-97cc-a436217ef361)
+![picture of my solution](https://github.com/BekiaD/cssbattle/assets/144695091/9ed0932e-89c4-4ae7-893c-a41dc8142f55)
 
 ## Stats
 
@@ -22,48 +22,52 @@
 ### Raw
 
 ```html
-<p class='a' id='e'><p class='a' id='f'><p class='a' id='g'><p id='j'>
+<p class='a' id='v'><p class='b' id='w'><p class='b' id='x'><p class='a' id='y'>
 <style>
- body{
-   background:#0A6190;
-   display:flex;
-   justify-content:center;
- }
+body{
+  background:#EDAF38;
+}
   p{
     position:absolute;
   }
-  .a{
-    height:80px;
-    border-left:80px solid #328FC1;
-    border-right:80px solid #328FC1;
-  }
-  #e{    
-    width:219px;
-    top:19px
-    }
+.a{
+  width:30px;
+  height:140px;
+  border-left:30px solid #FFFFCD;
+  border-right:30px solid #FFFFCD;
+}
+.b{
+  height:30px;
+  width:240px;
+  border-top:30px solid #FFFFCD;
+  border-bottom:30px solid #FFFFCD;
+}
 
-  #f{
-    width:119px;
-    top:69px
-  }
-
-  #g{
-    width:20px;
-    
-    top:119;
+  #w{
+    top:-16;
+    right:0
   }
 
-  #j{
-    background:#328FC1;
-    width:80px;
-    height:80px;
-    top:169px
+  #x{
+    top:194;
+    left:0
+  }
+  
+  #v{
+    top:-16;
+    left:0
+  }
+   #y{
+    bottom:-16;
+    right:0
   }
 </style>
+
+
 ```
 
 ### Minified
 
 ```html
-<p class='a' id='e'><p class='a' id='f'><p class='a' id='g'><p id='j'><style>body{background:#0A6190;display:flex;justify-content:center}p{position:absolute}.a{height:80;border-left:80px solid #328FC1;border-right:80px solid #328FC1}#e{width:219;top:19}#f{width:119;top:69}#g{width:20;top:119}#j{background:#328FC1;width:80;height:80;top:169}</style>
+<p class='a' id='v'><p class='b' id='w'><p class='b' id='x'><p class='a' id='y'><style>body{background:#EDAF38}p{position:absolute}.a{width:30;height:140;border-left:30px solid #FFFFCD;border-right:30px solid #FFFFCD}.b{height:30;width:240;border-top:30px solid #FFFFCD;border-bottom:30px solid #FFFFCD}#w{top:-16;right:0}#x{top:194;left:0}#v{top:-16;left:0}#y{bottom:-16;right:0}</style>
 ```
