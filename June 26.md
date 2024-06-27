@@ -1,72 +1,90 @@
 
 
-# CSS Battle Daily Targets: 25 June 2024
+# CSS Battle Daily Targets: 26 June 2024
 
 ## Daily Targets to Solve
 
 ### Target Image
 
-![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/b84cbdf6-5aad-4282-b8ca-9dc16fb6bdd4)
+![picture of daily target](https://github.com/BekiaD/cssbattle/assets/144695091/715b8d3a-86ec-44b0-8a9e-55f8f1721a9a)
+
 
 ### My solution
 
-![picture of my solution](https://github.com/BekiaD/cssbattle/assets/144695091/b3f23534-e724-46d2-bdaa-d132dc6dfb64)
+![picture of my solution](https://github.com/BekiaD/cssbattle/assets/144695091/cabbc17a-b567-4c1d-8289-f00b7306a962)
 
 ## Stats
 
 **Match**: 100%
-**Score**: 610.02
+**Score**: 
 
 ## Code
 
 ### Raw
 
 ```html
-<p id='a' class='a'><p id='b' class='a'><p id='c' class='a'><p id='d' class='a'><p id='e' class='b'><p id='f'> <p id='i' class='b'>
-<style>
-  body{
-    background:#DBBEDF;
-    display:flex;
-    justify-content:center;
-  }
+<p id='a'><div id='dh'><p class='gv'><p class='gv'></div><div id='dv'><p class='gv'><p class='gv'></div>
 
-  p{
-    background:#81008F;
+<div id='dhx'><p class='gl'><p class='gl'></div><div id='dvx'><p class='gl'><p class='gl'></div>
+<style>
+body{
+  background: #024817;
+  display: flex;
+
+  justify-content:center;
+  align-items:center;
+}
+  
+p{
+  aspect-ratio:1;
+  border-radius:50%;
+  width:40px;
+}
+    #a{
+    width:60px;
+    background:#48BF7D;
     position:absolute;
   }
   
-  .a{
-    width:360;
-    height:100;
+  div{
+  position:absolute;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
   }
-  #a{
-    top:-96
+  
+#dh{
+  flex-direction: column;
+  height:210;
+}
+
+
+  #dv{
+  flex-direction: row;
+  width:180;
+}
+
+.gv{
+    background:#176C36;
+    width:40px;
   }
-  #b{
-    top:24
-  }
-    #c{
-    top:144
-  }
-  #d{
-    top:264
-  }
-  .b{
-    height:24px;
-    width:180px;
-  }
-  #e{
-    top:1
-  }
-   #f{
-    height:24px;
-    width:100px;
-    top:120
+  .gl{
+       background:#48BF7D;
+    width:40px;
   }
 
-  #i{
-    top:240
-  }
+  #dhx{
+  flex-direction: column;
+    transform: rotate(45deg);
+  height:210;
+}
+
+
+  #dvx{
+  transform: rotate(45deg);
+  flex-direction: row;
+  width:180;
+}
 
 </style>
 ```
@@ -74,5 +92,5 @@
 ### Minified
 
 ```html
-<p id='a' class='a'><p id='b' class='a'><p id='c' class='a'><p id='d' class='a'><p id='e' class='b'><p id='f'><p id='i' class='b'><style>body{background:#DBBEDF;display:flex;justify-content:center}p{background:#81008F;position:absolute}.a{width:360;height:100}#a{top:-96}#b{top:24}#c{top:144}#d{top:264}.b{height:24;width:180}#e{top:1}#f{height:24;width:100;top:120}#i{top:240}</style>
+<p id='a'><div id='dh'><p class='gv'><p class='gv'></div><div id='dv'><p class='gv'><p class='gv'></div><div id='dhx'><p class='gl'><p class='gl'></div><div id='dvx'><p class='gl'><p class='gl'></div><style>body{background:#024817;display:flex;justify-content:center;align-items:center}p{aspect-ratio:1;border-radius:50%;width:40}#a{width:60;background:#48BF7D;position:absolute}div{position:absolute;display:flex;align-items:center;justify-content:space-between}#dh{flex-direction:column;height:210}#dv{flex-direction:row;width:180}.gv{background:#176C36;width:40}.gl{background:#48BF7D;width:40}#dhx{flex-direction:column;transform:rotate(45deg);height:210}#dvx{transform:rotate(45deg);flex-direction:row;width:180}</style>
 ```
