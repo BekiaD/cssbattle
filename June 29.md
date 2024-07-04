@@ -11,7 +11,7 @@
 
 ### My solution
 
-![picture of my solution]
+![picture of my solution](https://github.com/BekiaD/cssbattle/assets/144695091/28398e76-5b05-411a-9a08-43558fae8ef1)
 ## Stats
 
 **Match**: 100%
@@ -22,11 +22,39 @@
 ### Raw
 
 ```html
-
+<div id='a'><p><p><p><p><p></div>
+<div id='b'><p><p><p><p><p><p></div>
+<style>
+  body{
+    background:#F48B26;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  }
+  div{
+    display:flex;
+    gap:20px;
+    position:absolute
+  }
+#a{
+    top:74
+}
+  
+#b{
+  top:124;
+  left:-30
+}
+  
+p{
+  background:#FEFF58;
+  width:60;
+  height:70
+}
+</style>
 ```
 
 ### Minified
 
 ```
-
+<div id='a'><p><p><p><p><p></div><div id='b'><p><p><p><p><p><p></div><style>body{background:#F48B26;display:flex;justify-content:center;align-items:center}div{display:flex;gap:20px;position:absolute}#a{top:74}#b{top:124;left:-30}p{background:#FEFF58;width:60;height:70}</style>
 ```
